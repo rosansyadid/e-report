@@ -12,8 +12,8 @@
 
                 <!-- Logo -->
                 <a href="/" class="flex items-center justify-between mr-4">
-                    <img src="../assets/images/logo.png" class="mr-3 h-8 hidden md:inline" alt="Logo" />
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap">Lapor <span class="text-green-800 font-bold">Heker</span></span>
+                    <img src="../assets/images/newlogo.jpeg" class="rounded-lg mr-3 h-8 hidden md:inline" alt="Logo" />
+                    <span class="self-center text-2xl font-semibold whitespace-nowrap">Laporan <span class="text-purple-800 font-bold">Masyarakat</span></span>
                 </a>
 
                 <!-- Tab Name -->
